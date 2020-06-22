@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: rgb(255, 255, 255);
+    font-size: 80px;
+    border: 1px solid rgb(204, 204, 204);
+    padding: 0px 5px 0px 5px;
+}
